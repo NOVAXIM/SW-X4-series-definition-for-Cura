@@ -6,8 +6,8 @@ The definitions contain the printer settings necessary for proper operation with
 - [x] Artillery Sidewinder **X4 Pro** (including **S1** variant)
 - [x] Artillery Sidewinder **X4 Plus** (including **S1** variant)
 
-**NOTE:**
-The [artillery_sw-x4](https://github.com/NOVAXIM/SW-X4-series-definition-for-Cura/releases/download/5.10.2-and-previous/artillery_sw-x4.zip) archive available in the repository contains all the core files and is **intended only for manual addition to Cura versions 5.10.2 and previous**.
+> [!NOTE]
+> The [artillery_sw-x4](https://github.com/NOVAXIM/SW-X4-series-definition-for-Cura/releases/download/5.10.2-and-previous/artillery_sw-x4.zip) archive available in the repository contains all the core files and is intended only for manual addition to Cura versions 5.10.2 and previous.
 
 
 ## How to install sw-x4 definitions?
@@ -52,4 +52,4 @@ After installing the definitions, you can select the prepared printing qualities
 
 In addition, you receive a visualization of the identical printing board that you have originally installed in your printer.
 
-For more information, please visit [Wiki](https://github.com/NOVAXIM/sw-x4-definition-for-Cura/wiki).
+For more information, please visit [Wiki](https://github.com/NOVAXIM/SW-X4-series-definition-for-Cura/wiki).
